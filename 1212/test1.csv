@@ -1,0 +1,58 @@
+,Name,shortName,product,fuel,RINS,RINS_CA,LCFS,vol,CA,PricingFunction
+1,LES Renewable NG,LRN,D3,Diesel,0,0,0.6,3000,TRUE,FP1
+2,Seneca CERF,LRN,D3,Diesel,0.9,0.85,0.8,2000,TRUE,default
+3,Seneca Energy II,SE,D3,Diesel,0,0,0.6,1100,TRUE,FP1
+4,Timberline Energy,TIM,D3,Diesel,0.75,0.75,0.5,1200,FALSE,default
+5,MDU,MDU,D3,Diesel,0.8,0.8,0.8,500,TRUE,default
+6,Canton Renewables,CAN,D3,Diesel,0.825,0.825,0.75,1000,TRUE,default
+7,CERF Shelby,SHB,D3,Diesel,0.825,0.825,0.75,650,TRUE,default
+8,Complexe Enviro Connexions Ltd,CEP,D3,Diesel,0.67,0.67,0.5,5200,TRUE,default
+9,DTE ( Pinnacle),PGP,D3,Diesel,0.8,0.8,0.8,100,TRUE,default
+10,DTE (Westside),WGP,D3,Diesel,0.81,0.81,0.81,900,TRUE,default
+11,DTE (Westside),WGP,D3,Diesel,0.82,0.82,0.82,900,TRUE,default
+12,DTE (Westside),WGP,D3,Diesel,0.825,0.825,0.825,900,TRUE,default
+13,EBI Energy,EBI,D3,Diesel,0.75,0.7,0.5,100,FALSE,default
+14,Iogen D3 Biofuel Partners,IOG,D3,Diesel,0.9,0.86,0.25,1932,FALSE,default
+15,King County,KCWT,D3,Diesel,0.7,0.7,0.35,700,FALSE,default
+16,GSF Energy,GSF,D3,Diesel,0.75,0.75,0.5,3532,TRUE,default
+17,Monroeville LFG,MRV,D3,Diesel,0.75,0.75,0.5,900,TRUE,default
+18,Puget Sound Energy,PSE,D3,Diesel,0.73,0.73,0.35,4947,TRUE,default
+19,Renewable Dairy Fuels,RDF,D3,Diesel,0.85,0.85,0.915,500,TRUE,default
+20,Renewable Pwr Prod,RPP,D3,Diesel,0.875,0.8,0.8,1000,FALSE,default
+21,River Birch,RB,D3,Diesel,0.85,0.85,0.25,3200,TRUE,default
+22,Shell (DCEMB),DCEMB,D3,Diesel,0.93,0.88,0.8,2000,FALSE,default
+23,Shell (DCEMB),DCEMB,D3,Diesel,0.93,0.88,0.8,3000,TRUE,default
+24,Shell (ETR),ETR,D3,Diesel,0.9,0.85,0.7,930,TRUE,default
+25,Shell (FSC),FSC,D3,Diesel,0.9,0.85,0.7,1400,TRUE,default
+26,Shell (JDP),JDP,D3,Diesel,0.9,0.85,0.7,1000,TRUE,default
+27,LES Renewable NG,LRN,D3,Diesel,0,0,0.75,3000,TRUE,FP1
+28,LES Renewable NG,LRN,D3,Diesel,0.825,0.825,0.75,3000,TRUE,default
+29,Seneca Energy II,SE,D3,Diesel,0,0,0.75,1100,TRUE,FP1
+30,Seneca Energy II,SE,D3,Diesel,0.825,0.825,0.75,1100,TRUE,default
+31,EBI Energy,EBI,D3,Diesel,0.75,0.7,0.5,2300,FALSE,default
+32,DTE (Pinnacle),PGP,D3,Diesel,0.83,0.83,0.75,800,TRUE,default
+33,Shell (ETR),ETR,D3,Diesel,0.85,0.85,0.3,930,TRUE,default
+34,Shell (FSC),FSC,D3,Diesel,0.85,0.85,0.3,1400,TRUE,default
+35,Shell (JDP),JDP,D3,Diesel,0.85,0.85,0.3,1000,TRUE,default
+36,CEFARI RNG OKC,CEFA,D3,Diesel,0.825,0.825,0.75,3600,FALSE,default
+37,Clean Eagle RNG,CEGP,D3,Diesel,0.825,0.825,0.75,3468,FALSE,default
+38,Klickitat PUD,KPUD,D3,Diesel,0.75,0.75,0.5,1050,FALSE,default
+39,TX LFG Energy,TXLFG,D3,Diesel,0.9,0.85,0.8,4900,FALSE,default
+40,Shell (Brinker CA),BKCA,D3,Diesel,0.93,0.88,0.75,1000,FALSE,default
+41,Shell (Brinker CA),BKCA,D3,Diesel,0.8,0.85,0.75,1000,FALSE,default
+42,Shell (Brinker CA),BKCA,D3,Diesel,0.93,0.88,0.75,1000,FALSE,default
+43,Shell (Melissa TX),MLTX,D3,Diesel,0.8,0.85,0.75,2500,FALSE,default
+44,Shell (Melissa TX),MLTX,D3,Diesel,0.88,0.83,0.75,2500,FALSE,default
+45,Shell (Melissa TX),MLTX,D3,Diesel,0.93,0.88,0.75,2500,FALSE,default
+46,Wasatch Resource Recovery,WRR,D5,Diesel,0.8,0.8,0.5,2500,FALSE,default
+47,WOF SW GGP I,GGP,D3,Diesel,0.6775,0.6775,0.68,2500,FALSE,default
+48,WOF SW GGP I,GGP,D3,Diesel,0.6775,0.6775,0.68,2500,FALSE,default
+49,WOF SW GGP I,GGP,D3,Diesel,0.6775,0.6775,0.68,2500,FALSE,default
+50,3 Mile Canyon,3MC,D3,Diesel,0.78,0.78,1,500,FALSE,default
+51,3 Mile Canyon,3MC,D3,Diesel,0.78,0.78,1,1500,FALSE,default
+52,City of Tacoma Wastewaster,CTWW,D3,Diesel,0.75,0.75,1,250,FALSE,default
+53,Wisconsin AD,WSAD,D3,Diesel,0.8,0.8,0.7,1100,FALSE,default
+54,Meadowbrook Energy ,MBE,D3,Diesel,0.65,0.65,0.54,6900,FALSE,default
+55,Apex (OH),APX,D3,Diesel,0.9,0.85,0.75,2200,FALSE,default
+56,Portland WWTP,PWW,D3,Diesel,0.86,0.86,1,600,FALSE,default
+57,RQubed,RQB,D3,Diesel,0.77,0.77,0.61,1500,FALSE,default
